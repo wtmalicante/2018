@@ -40,7 +40,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/2018/", text: "Home"}
  - {permalink: "/2018/schedule/", text: "Agenda"}
  - {permalink: "/2018/speakers/", text: "Ponentes"}
  - {permalink: "/2018/team/", text: "Taller"}
@@ -57,7 +57,7 @@ typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
- - {permalink: "/team", text: "+ Info del taller"}
+ - {permalink: "/2018/team", text: "+ Info del taller"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
